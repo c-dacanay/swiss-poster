@@ -4,35 +4,37 @@
 
 This is a remix of a Josef Müller-Brockmann poster in the browser. The text is taken from my personal "Spotify unwrapped" from 2019.
 
-<img src="https://github.com/c-dacanay/swiss-poster/blob/master/public/images/JMB-TT5.jpg?raw=true" alt="Musica Viva by Josef Müller-Brockmann" width="200"/>
+<!-- ![Musica Viva by Josef Müller-Brockmann](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/JMB-TT5.jpg?raw=true) -->
 
-## Wireframe & Style Guide
+# Wireframe & Style Guide
 
-|![Style Guide](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/StyleGuide_Swiss.png?raw=true) | ![Wireframe](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/WireFrame_Swiss.png?raw=true) | ![Remix](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/Remix_Swiss.png) |
+![Style Guide](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/StyleGuide_Swiss.png?raw=true)
+![Wireframe](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/WireFrame_Swiss.png?raw=true)
+![Remix](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/Remix_Swiss.png) |
 
 <!-- It is essential to describe how to set up your project -->
 
-## Code
+# Code
 
 ![Progress 1](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress1.png?raw=true)
 ![Progress 2](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress2.png?raw=true)
+![Progress 5](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress5.png?raw=true)
 ![Progress 3](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress3.png?raw=true)
 ![Progress 4](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress4.png?raw=true)
-![Progress 5](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress5.png?raw=true)
 
-![Javascript for color change](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/js.png?raw=true)
+<!-- ![Javascript for color change](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/js.png?raw=true) -->
 
-## Glitch
+# Glitch
 
 This project is hosted on Glitch.
 
-## Built with
+# Built with
 
 - [VS Code](https://code.visualstudio.com/)
 - [Figma](https://www.figma.com/)
 - [Github](https://github.com)
 
-## Author
+# Author
 
 - [Christina Dacanay](http://cdacanay.com/) -- for Dynamic Web Development at [NYU ITP](https://itp.nyu.edu)
 
