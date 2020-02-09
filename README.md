@@ -4,13 +4,23 @@
 
 This is a remix of a Josef Müller-Brockmann poster in the browser. The text is taken from my personal "Spotify unwrapped" from 2019.
 
-![Musica Viva by Josef Müller-Brockmann](http://socks-studio.com/img/blog/Muller-Brockmann-07.-Zurich-Tonhalle.-musica-viva.-Concert-poster-1959.jpg)
+<img src="https://github.com/c-dacanay/swiss-poster/blob/master/public/images/JMB-TT5.jpg?raw=true" alt="Musica Viva by Josef Müller-Brockmann" width="200"/>
 
 ## Wireframe & Style Guide
+
+|![Style Guide](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/StyleGuide_Swiss.png?raw=true) | ![Wireframe](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/WireFrame_Swiss.png?raw=true) | ![Remix](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/Remix_Swiss.png) |
 
 <!-- It is essential to describe how to set up your project -->
 
 ## Code
+
+![Progress 1](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress1.png?raw=true)
+![Progress 2](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress2.png?raw=true)
+![Progress 3](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress3.png?raw=true)
+![Progress 4](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress4.png?raw=true)
+![Progress 5](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress5.png?raw=true)
+
+![Javascript for color change](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/js.png?raw=true)
 
 ## Glitch
 
