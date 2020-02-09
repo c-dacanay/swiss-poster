@@ -1,0 +1,113 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  height: 100%;
+  font-size: 16px;
+  background-color: #fff7e4;
+}
+body {
+  font-family: "Karla", sans-serif;
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.header__title {
+  margin-left: 2rem;
+  margin-top: 2rem;
+  height: 8rem;
+}
+.content {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: top;
+}
+.artists {
+  margin-left: 2rem;
+  line-height: 3rem;
+  width: 43%;
+}
+.playlists {
+  vertical-align: top;
+  line-height: 2.6rem;
+  width: 17%;
+}
+
+.funfacts {
+  vertical-align: top;
+  width: 35%;
+}
+
+.row__one {
+  display: flex;
+  margin-bottom: 7rem;
+}
+
+.row__two {
+  margin-bottom: 2rem;
+  display: flex;
+}
+
+.row__three {
+  margin-bottom: 3rem;
+  display: flex;
+  /* justify-content: center; */
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  display: inline-flex;
+  animation: slidein 5s;
+  background-color: #9a9786;
+}
+/* .debug{
+              border: 1px solid red;
+            } */
+
+#b1,
+#b7 {
+  left: 45%;
+  /* background-color: #9a9786; */
+}
+
+#b2 {
+  left: 10%;
+  /* background-color: #00a793; */
+}
+
+#b3 {
+  left: 10%;
+  /* background-color: #202121; */
+}
+#b4 {
+  left: 33%;
+  /* background-color: #d400d8; */
+}
+#b5 {
+  left: 45%;
+  /* background-color: #202121; */
+}
+#b6 {
+  left: 60%;
+  /* background-color: #f1ce00; */
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 90%;
+  }
+
+  to {
+    margin-left: 0%;
+  }
+}
