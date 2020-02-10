@@ -6,15 +6,18 @@ This is a remix of a Josef Müller-Brockmann poster in the browser. The text is 
 
 <!-- ![Musica Viva by Josef Müller-Brockmann](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/JMB-TT5.jpg?raw=true) -->
 
-# Wireframe & Style Guide
+## Wireframe & Style Guide
 
+Building the style guide for this poster was fairly straightforward; I unfortunately used a lo-res image to base the guide off of so I was unable to make out some of the smaller text. It was a good exercise to flex my design muscles again.
 ![Style Guide](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/StyleGuide_Swiss.png?raw=true)
+I wanted to translate the poster to the browser format. The proportions are a little skewed horizontally but otherwise I wanted to keep the rest of the grid intact.  
 ![Wireframe](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/WireFrame_Swiss.png?raw=true)
+The remix is quite straightforward as well! I hadn't thought of web interaction at this point but I also switched out the font for something I knew could be hosted online.
 ![Remix](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/Remix_Swiss.png) |
 
 <!-- It is essential to describe how to set up your project -->
 
-# Code
+## Code
 
 ![Progress 1](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress1.png?raw=true)
 ![Progress 2](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress2.png?raw=true)
