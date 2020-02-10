@@ -13,7 +13,7 @@ Building the style guide for this poster was fairly straightforward; I unfortuna
 I wanted to translate the poster to the browser format. The proportions are a little skewed horizontally but otherwise I wanted to keep the rest of the grid intact.  
 ![Wireframe](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/WireFrame_Swiss.png?raw=true)
 The remix just involved picking some different colors that I like and changing the font and sizes to accommodate the browser format.
-![Remix](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/Remix_Swiss.png) |
+![Remix](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/Remix_Swiss.png)
 
 <!-- It is essential to describe how to set up your project -->
 
