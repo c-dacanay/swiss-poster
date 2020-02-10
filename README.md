@@ -12,16 +12,19 @@ Building the style guide for this poster was fairly straightforward; I unfortuna
 ![Style Guide](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/StyleGuide_Swiss.png?raw=true)
 I wanted to translate the poster to the browser format. The proportions are a little skewed horizontally but otherwise I wanted to keep the rest of the grid intact.  
 ![Wireframe](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/WireFrame_Swiss.png?raw=true)
-The remix is quite straightforward as well! I hadn't thought of web interaction at this point but I also switched out the font for something I knew could be hosted online.
+The remix just involved picking some different colors that I like and changing the font and sizes to accommodate the browser format.
 ![Remix](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/Remix_Swiss.png) |
 
 <!-- It is essential to describe how to set up your project -->
 
 ## Code
 
+Working off the wireframe was a hugely helpful experience. I was happy to have had the proportions figured out on a previous document before moving straight into the code. I initially had extra divs for the blank space on the page but Cassie pointed out that I could achieve the same thing through margins on the divs. Having the debug CSS class with a stroke was a lifesaver, and is definitely something I'll be taking forward with me.  
 ![Progress 1](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress1.png?raw=true)
 ![Progress 2](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress2.png?raw=true)
+I had initially hard coded the remix colors into the div boxes. Things were beginning to shape up and I got a handle on flex boxes. I spent a surprising amount of time just on alignment, but that seems par on the web development courseif stack overflow is to be believed.
 ![Progress 5](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress5.png?raw=true)
+I was later able to combine Javascript and CSS to randomize and animate the boxes. Now when you load the page the boxes slide in from the right and clicking picks their colors out randomly from an array.
 ![Progress 3](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress3.png?raw=true)
 ![Progress 4](https://github.com/c-dacanay/swiss-poster/blob/master/public/images/progress4.png?raw=true)
 
@@ -50,7 +53,7 @@ function switchColors() {
 
 # Glitch
 
-This project is hosted on Glitch.
+This project [is hosted on Glitch.](https://c-dacanay-swiss-poster.glitch.me/)
 
 # Built with
 
